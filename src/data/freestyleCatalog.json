@@ -1,0 +1,568 @@
+{
+  "families": [
+    {
+      "id": "coca-cola",
+      "name": "Coca-Cola",
+      "variants": [
+        {
+          "id": "regular",
+          "name": "Regular",
+          "flavors": [
+            "Coca-Cola Original Taste",
+            "Cherry Coke",
+            "Coca-Cola Cherry Vanilla",
+            "Coca-Cola With Lemon",
+            "Coca-Cola With Lime",
+            "Coca-Cola With Orange",
+            "Vanilla Coke",
+            "Coca-Cola Peach",
+            "Coca-Cola Tropical"
+          ]
+        },
+        {
+          "id": "zero",
+          "name": "Zero Sugar",
+          "flavors": [
+            "Coca-Cola Zero Sugar",
+            "Coke Zero Créme Soda",
+            "Coca-Cola Cherry Zero",
+            "Cherry Vanilla Coke Zero",
+            "Coke Zero With Lemon",
+            "Coke Zero With Lime",
+            "Coke Zero With Orange",
+            "Vanilla Coke Zero",
+            "Coca-Cola Zero Peach",
+            "Coca-Cola Zero Tropical"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "diet-coke",
+      "name": "Diet Coke",
+      "variants": [
+        {
+          "id": "regular",
+          "name": "Regular",
+          "flavors": [
+            "Diet Coke",
+            "Diet Cherry Coke",
+            "Diet Coke Cherry Vanilla",
+            "Diet Coke With Orange",
+            "Diet Vanilla Coke",
+            "Diet Coke Ginger Lemon",
+            "Diet Coke Ginger Lime",
+            "Diet Coke With Orange Vanilla"
+          ]
+        },
+        {
+          "id": "caffeine-free",
+          "name": "Caffeine-Free",
+          "flavors": [
+            "Caffeine-Free Diet Coke",
+            "Caffeine-Free Diet Cherry Coke",
+            "Caffeine-Free Diet Cherry Vanilla Coke",
+            "Caffeine-Free Diet Orange Coke",
+            "Caffeine-Free Diet Vanilla Coke",
+            "Caffeine-Free Diet Cokke Ginger Lemon",
+            "Caffeine-Free Diet Coke Ginger Lime"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sprite",
+      "name": "Sprite",
+      "variants": [
+        {
+          "id": "regular",
+          "name": "Regular",
+          "flavors": [
+            "Sprite",
+            "Sprite With Cherry",
+            "Sprite With Grape",
+            "Sprite With Peach",
+            "Sprite With Strawberry",
+            "Sprite With Vanilla",
+            "Sprite Lymonade",
+            "Sprite with Pineapple",
+            "Sprite Orange"
+          ]
+        },
+        {
+          "id": "zero",
+          "name": "Zero Sugar",
+          "flavors": [
+            "Sprite Zero Sugar",
+            "Sprite Zero With Cherry",
+            "Sprite Zero With Grape",
+            "Sprite Zero With Orange",
+            "Sprite Zero With Peach",
+            "Sprite Zero With Strawberry",
+            "Sprite Zero With Vanilla",
+            "Sprite Zero Sugar Lymonade",
+            "Sprite Zero with Pineapple"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sprite-chill",
+      "name": "Sprite Chill",
+      "variants": [
+        {
+          "id": "regular",
+          "name": "Regular",
+          "flavors": [
+            "Sprite Chill Peach",
+            "Sprite Chill Grape",
+            "Sprite Chill Strawberry",
+            "Sprite Chill Cherry Lime"
+          ]
+        },
+        {
+          "id": "zero",
+          "name": "Zero Sugar",
+          "flavors": [
+            "Sprite Chill ZS Strawberry",
+            "Sprite Chill ZS Peach",
+            "Sprite Chill ZS Grape",
+            "Sprite Chill ZS Cherry Lime"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mr-pibb",
+      "name": "Mr. Pibb",
+      "variants": [
+        {
+          "id": "regular",
+          "name": "Regular",
+          "flavors": [
+            "Mr. Pibb",
+            "Mr. Pibb Punchin' Peach",
+            "Mr. Pibb Thrillin' Vanilla"
+          ]
+        },
+        {
+          "id": "zero",
+          "name": "Zero Sugar",
+          "flavors": [
+            "Mr. Pibb Zero Sugar",
+            "Mr. Pibb Zero Sugar Punchin' Peach",
+            "Mr. Pibb Zero Sugar Thrillin' Vanilla"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "barqs-root-beer",
+      "name": "Barqs Root Beer",
+      "variants": [
+        {
+          "id": "regular",
+          "name": "Regular",
+          "flavors": [
+            "Barqs Root Beer",
+            "Barq's Vanilla"
+          ]
+        },
+        {
+          "id": "zero",
+          "name": "Zero Sugar",
+          "flavors": [
+            "Barqs Zero Sugar Root Beer",
+            "Barqs Zero Sugar Root Beer Vanilla"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "barqs-creme-soda",
+      "name": "Barqs Soda",
+      "variants": [
+        {
+          "id": "regular",
+          "name": "Regular",
+          "flavors": [
+            "Barq’s Peach Crème Soda",
+            "Barq’s Strawberry Crème Soda",
+            "Barq’s Vanilla Crème Soda",
+            "Barq’s Orange Crème Soda",
+            "Barqs Red Cream Soda"
+          ]
+        },
+        {
+          "id": "zero",
+          "name": "Zero Sugar",
+          "flavors": [
+            "Barqs Zero Sugar Creme Soda Peach",
+            "Barqs Zero Sugar Creme Soda Strawberry",
+            "Barqs Zero Sugar Creme Soda Vanilla",
+            "Barqs Zero Sugar Creme Soda Orange",
+            "Barqs Zero Sugar Red Creme Soda"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fanta",
+      "name": "Fanta",
+      "variants": [
+        {
+          "id": "regular",
+          "name": "Regular",
+          "flavors": [
+            "Fanta",
+            "Fanta Cherry",
+            "Fanta Fruit Punch",
+            "Fanta Grape",
+            "Fanta Lime",
+            "Fanta Orange",
+            "Fanta Peach",
+            "Fanta Strawberry",
+            "Fanta Vanilla",
+            "Fanta Pineapple"
+          ]
+        },
+        {
+          "id": "zero",
+          "name": "Zero Sugar",
+          "flavors": [
+            "Fanta Zero",
+            "Fanta Zero Cherry",
+            "Fanta Zero Fruit Punch",
+            "Fanta Zero Grape",
+            "Fanta Zero Lime",
+            "Fanta Zero Orange",
+            "Fanta Zero Peach",
+            "Fanta Zero Strawberry",
+            "Fanta Zero Vanilla",
+            "Fanta Zero Pineapple"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dr-pepper",
+      "name": "Dr Pepper",
+      "variants": [
+        {
+          "id": "regular",
+          "name": "Regular",
+          "flavors": [
+            "Dr Pepper",
+            "Dr Pepper Cherry",
+            "Dr Pepper Cherry Vanilla",
+            "Dr Pepper Strawberry",
+            "Dr Pepper Vanilla"
+          ]
+        },
+        {
+          "id": "diet",
+          "name": "Diet",
+          "flavors": [
+            "Diet Dr Pepper",
+            "Diet Dr Pepper Cherry",
+            "Diet Dr Pepper Cherry Vanilla",
+            "Diet Dr Pepper Strawberry",
+            "Diet Dr Pepper Vanilla"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mello-yello",
+      "name": "Mello Yello",
+      "variants": [
+        {
+          "id": "regular",
+          "name": "Regular",
+          "flavors": [
+            "Mello Yello",
+            "Mello Yello With Cherry",
+            "Mello Yello With Orange",
+            "Mello Yello With Peach",
+            "Mello Yello Limeade",
+            "Mello Yello Citrus Twist",
+            "Mello Yello Strawberry Orange"
+          ]
+        },
+        {
+          "id": "zero",
+          "name": "Zero Sugar",
+          "flavors": [
+            "Mello Yello Zero",
+            "Mello Yello Zero With Cherry",
+            "Mello Yello Zero With Orange",
+            "Mello Yello Zero With Peach",
+            "Mello Yello Limeade Zero",
+            "Mello Yello Citrus Twist Zero",
+            "Mello Yello Strawberry Orange"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vitaminwater",
+      "name": "Vitaminwater",
+      "variants": [
+        {
+          "id": "regular",
+          "name": "Regular",
+          "flavors": [
+            "Vitaminwater Lemonade",
+            "Vitaminwater Motivate (Peach)",
+            "Vitaminwater Orangeade C",
+            "Vitaminwater Pink Squeezed",
+            "Vitaminwater Captivate (Strawberry Citrus)",
+            "Vitaminwater Tropical Punch"
+          ]
+        },
+        {
+          "id": "zero",
+          "name": "Zero Sugar",
+          "flavors": [
+            "Vitaminwater Zero Lemonade",
+            "Vitaminwater Zero Orange",
+            "Vitaminwater Zero Peach",
+            "Vitaminwater Zero Pink Lemonade",
+            "Vitaminwater Zero Strawberry Citrus",
+            "Vitaminwater Zero Tropical Punch"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "minute-maid-drinks",
+      "name": "MM Drinks",
+      "variants": [
+        {
+          "id": "regular",
+          "name": "Regular",
+          "flavors": [
+            "Minute Maid Drinks Fruit Punch",
+            "Minute Maid Drinks Cherry Limeade",
+            "Minute Maid Drinks Grape",
+            "Minute Maid Drinks Limeade",
+            "Minute Maid Drinks Orange",
+            "Minute Maid Drinks Peach"
+          ]
+        },
+        {
+          "id": "light",
+          "name": "Light",
+          "flavors": [
+            "Minute Maid Light Drinks Fruit Punch",
+            "Minute Maid Light Drinks",
+            "Minute Maid Light Drinks Grape",
+            "Minute Maid Light Drinks Limeade",
+            "Minute Maid Light Drinks Orange",
+            "Minute Maid Light Drinks Peach"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "minute-maid-lemonade",
+      "name": "MM Lemonade",
+      "variants": [
+        {
+          "id": "regular",
+          "name": "Regular",
+          "flavors": [
+            "Minute Maid Lemon-Lime Lemonade",
+            "Minute Maid Orange Lemonade",
+            "Minute Maid Peach Lemonade",
+            "Minute Maid Pink Lemonade",
+            "Minute Maid Strawberry Lemonade",
+            "Minute Maid Lemonade",
+            "Minute Maid Sparkling Lemonade",
+            "Minute Maid Sparkling Pink Lemonade"
+          ]
+        },
+        {
+          "id": "light",
+          "name": "Light",
+          "flavors": [
+            "Minute Maid Light Lemon-Lime Lemonade",
+            "Minute Maid Light Orange Lemonade",
+            "Minute Maid Light Peach Lemonade",
+            "Minute Maid Light Pink Lemonade",
+            "Minute Maid Light Strawberry Lemonade",
+            "Minute Maid Light Lemonade"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "minute-maid-aguas-frescas",
+      "name": "Aguas Frescas",
+      "variants": [
+        {
+          "id": "regular",
+          "name": "Regular",
+          "flavors": [
+            "Minute Maid Aguas Frescas Limonada",
+            "Minute Maid Aguas Frescas Strawberry Limón",
+            "Minute Maid Aguas Frescas Pineapple"
+          ]
+        },
+        {
+          "id": "light",
+          "name": "Light",
+          "flavors": []
+        }
+      ]
+    },
+    {
+      "id": "seagrams",
+      "name": "Seagrams",
+      "variants": [
+        {
+          "id": "regular",
+          "name": "Regular",
+          "flavors": [
+            "Seagrams Ginger Ale",
+            "Seagrams Ginger Ale With Cherry",
+            "Seagrams Ginger Ale With Lime",
+            "Seagrams Ginger Ale With Orange",
+            "Seagrams Ginger Ale With Vanilla"
+          ]
+        },
+        {
+          "id": "zero",
+          "name": "Zero Sugar",
+          "flavors": [
+            "Seagrams Zero Sugar Ginger Ale",
+            "Seagrams Zero Sugar Ginger Ale Cherry",
+            "Seagrams Zero Sugar Ginger Ale Lime",
+            "Seagrams Zero Sugar Ginger Ale Orange",
+            "Seagrams Zero Sugar Ginger Ale Vanilla"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hi-c",
+      "name": "Hi-C",
+      "variants": [
+        {
+          "id": "regular",
+          "name": "Regular",
+          "flavors": [
+            "Hi-C Cherry",
+            "Hi-C Fruit Punch",
+            "Hi-C Grape",
+            "Hi-C Orange",
+            "Hi-C Orange Vanilla",
+            "Hi-C Strawberry",
+            "Hi-C Vanilla",
+            "Hi-C Pineapple",
+            "Hi-C Tropical Punch"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "powerade",
+      "name": "Powerade",
+      "variants": [
+        {
+          "id": "regular",
+          "name": "Regular",
+          "flavors": [
+            "Powerade Cherry",
+            "Powerade Fruit Punch",
+            "Powerade Grape",
+            "Powerade Lemon",
+            "Powerade Lime",
+            "Powerade Orange",
+            "Powerade Strawberry"
+          ]
+        },
+        {
+          "id": "zero",
+          "name": "Zero Sugar",
+          "flavors": [
+            "Powerade Zero Cherry",
+            "Powerade Zero Fruit Punch",
+            "Powerade Zero Grape",
+            "Powerade Zero Lemon",
+            "Powerade Zero Lime",
+            "Powerade Zero Orange",
+            "Powerade Zero Strawberry"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "aha",
+      "name": "AHA Sparkling",
+      "variants": [
+        {
+          "id": "sparkling",
+          "name": "Sparkling",
+          "flavors": [
+            "AHA Sparkling Lemon Lime",
+            "AHA Sparkling Unflavored"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "peace-tea",
+      "name": "Peace Tea",
+      "variants": [
+        {
+          "id": "regular",
+          "name": "Regular",
+          "flavors": [
+            "Peace Tea",
+            "Peace Tea Caddy Shack",
+            "Peace Tea Just Peachy",
+            "Peace Tea Sweet",
+            "Peace Tea Sweet Lemon",
+            "PeaceTea Strawberry"
+          ]
+        },
+        {
+          "id": "zero",
+          "name": "Zero Sugar",
+          "flavors": [
+            "Peace Tea Zero",
+            "Peace Tea ZS Sweet Lemon",
+            "Peace Tea ZS Strawberry",
+            "Peace Tea SZ Just Peachy",
+            "Peace Tea ZS Caddy Shack",
+            "Peace Tea ZS Sweet",
+            "Peace Tea ZS Unsweet"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gold-peak",
+      "name": "Gold Peak",
+      "variants": [
+        {
+          "id": "regular",
+          "name": "Regular",
+          "flavors": [
+            "Gold Peak Sweet",
+            "Gold Peak Unsweetened",
+            "Gold Peak Extra Sweet"
+          ]
+        },
+        {
+          "id": "zero",
+          "name": "Zero Sugar",
+          "flavors": [
+            "Gold Peak Zero Sugar Sweet"
+          ]
+        }
+      ]
+    }
+  ]
+}
